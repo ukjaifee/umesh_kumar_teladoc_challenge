@@ -2,7 +2,7 @@ This project is a Java-based test automation framework designed for web applicat
 The project is configured with Gradle using the Kotlin DSL, which provides a flexible and expressive way to define builds. 
 Additionally, Selenide is integrated to simplify web interactions in tests, providing a robust and fluent interface for controlling browsers.
 
-git clone https://github.com/yourusername/cucumber-selenide-project.git cd cucumber-selenide-project](https://github.com/ukjaifee/umesh_kumar_teladoc_challenge.git
+git clone https://github.com/yourusername/cucumber-selenide-project.git 
 
 Prerequisites:
 Java JDK- 21.
